@@ -26,7 +26,7 @@ This project uses the **pokeapi.co API** ([API Documentation](https://pokeapi.co
 
 The requirements for this project are as follows:
 
-1. Establish a `Pokemon` record with properties for the Pokemon's name, ID, ability, and types. You may use app.quicktype.io to help.
+1. Establish a `Pokemon` record with properties for the Pokemon's name, ID, ability, and types.
 3. Display a list of matching Pokemons and show the sprite (image) associated with the record. If the image is large, scale it to a more manageable size to reduce memory load.
 3. Allow the user to save the Pokemon. Display a list of saved Pokemons in a table view, including the Pokemon sprites. (**Stretch:** Implement persistence for this list.)
 4. Allow the user to view a Pokemon's information in a detail view controller.
