@@ -18,7 +18,7 @@ Good luck!
 
 This screen recording previews the look and feel of a completed project that meets the MVP requirements for this project. Please be patient. This GIF is large and may take several seconds to load:
 
-![](https://user-images.githubusercontent.com/16965587/43942387-0485bc3a-9c35-11e8-8553-2ed7afe6eb46.gif)
+![](https://user-images.githubusercontent.com/16965587/57961053-b3b11f80-78c9-11e9-9588-e8b2cfe2decc.gif)
 
 ## Requirements
 
